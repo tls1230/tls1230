@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tls1230
-- 👀 I’m interested in 뀨
+- 👀 I’m interested in cat
 - 🌱 I’m currently learning python, html, css, javascript, c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
